@@ -1,0 +1,28 @@
+form{
+    text-align: center;
+    margin-top: 20em;
+}
+input{
+    width: 40em;
+    height: 2em;
+    padding: 10px 20px;
+
+}
+.img-1{
+    width: 20px;
+    position: relative;
+    right: 29.5em;
+    top: 0.5em;
+}
+
+
+
+.img-2{
+    position: relative;
+    right: 2em;
+
+
+}
+
+  
+    
